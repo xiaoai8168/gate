@@ -63,15 +63,14 @@ DEFAULT_EDGE_HOSTS = [
     "cf.nyanya.moe:443",
     "cf.877774.xyz:443",
     "cdn.204910.best:443",
-    "www.wto.org:443",
-    "www.glassdoor.com:443",
-    "www.udacity.com:443",
-    "www.boba88slot.com:443",
-    "www.shopify.com:443",
-    "www.visa.co.jp:443",
-    "www.visa.com.sg:443",
-    "www.visa.com.sg:443",
-    "www.visa.com:443",
+    "www.wuduanyun.com:443",
+    "idc.urkeji.com:443",
+    "ali.nonull.pp.ua:443",
+    "api.gzcrtw.com:443",
+    "auto.dolby.dpdns.org:443",
+    "cdn.204910.best:443",
+    "www.crazygames.fr:443",
+    "m.iyf.tv:443",
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
